@@ -64,8 +64,3 @@ Building the Family Travel Tracker helped me practice:
    Open `http://localhost:3000` in your browser.
 
 ---
----
-
-## 👩‍💼 Project Credits
-
-This project was built as part of Angela Yu’s **Complete Web Development Bootcamp** on Udemy. It reflects core concepts from real-world web applications including routing, database integration, user interface design, and full CRUD functionality.
