@@ -42,7 +42,6 @@ Building the Family Travel Tracker helped me practice:
 
    ```bash
    npm i
-   npm i ejs express pg
    ```
 
 3. **Set up the PostgreSQL database**
